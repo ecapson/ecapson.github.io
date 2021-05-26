@@ -38,6 +38,15 @@ params:
     showtoc: false
     tocopen: false
 
+    #assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+   #     favicon: "<link / abs url>"
+   #     favicon16x16: "<link / abs url>"
+   #     favicon32x32: "<link / abs url>"
+   #     apple_touch_icon: "<link / abs url>"
+   #     safari_pinned_tab: "<link / abs url>"
+
 
     # home-info mode
     homeInfoParams:
@@ -70,10 +79,19 @@ menu:
         - identifier: posts
           name: posts
           url: /tags/posts
-          weight: 10          
+          weight: 10
         - identifier: tags
           name: tags
           url: /tags/
 
 staticDir:
     - static
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

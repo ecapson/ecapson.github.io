@@ -54,7 +54,10 @@ Looking at the image, you can almost tell that it's blurred text due to the spac
 Which reminded me a tool from a while ago: https://github.com/beurtschipper/Depix
 
 There was no context clues to what kind of font were used, but we can try common scenarios. Depix provides few scenarios.
-So we try them all.
+So we try them all:
+
+```ls images/searchimages/ | xargs -I {} sh -c "python depix.py -p reading-through-the-clouds.png -s images/searchimages/{} -o chall/output_{}"```
+
 
 |![](/output-win7.png)|
 |:-:|
