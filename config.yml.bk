@@ -1,0 +1,4 @@
+baseURL: https://ecapson.github.io/
+languageCode: en-us
+title: ecapson
+theme: "PaperMod"
