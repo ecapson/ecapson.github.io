@@ -77,7 +77,7 @@ Much better but we can do better
 
 Not perfect, but we can tell that it says
 	
-	the secret is lastkindom
+	the secret is lastkingdom
 	
 The secret was indeed lastkingdom and we get some points.
 ![](/reading_through_the_clouds-points.png)
