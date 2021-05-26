@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Northsec-2021 on ecapson</title>
+    <link>https://ecapson.github.io/tags/northsec-2021/</link>
+    <description>Recent content in Northsec-2021 on ecapson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://ecapson.github.io/tags/northsec-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading through the clouds</title>
+      <link>https://ecapson.github.io/post-1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ecapson.github.io/post-1/</guid>
+      <description>For this challenge, the following description and a link to an image was given.
+Up to the sky, I draw inspiration From the sun, I warm up my passion My ballads follow the birds songs The stars spell words to who my heart longs But these clouds make me raving confused. Would you kindly act as my decoding muse?          Challenge Image    At first, it was classified as steganography and before I touched the challenge, most steganography techniques were tried.</description>
+    </item>
+    
+  </channel>
+</rss>
